@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0034/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法宗原私記
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D34/D34n8893.xml
+    old_id: D34n8893
+hash: sha256:30c351762b48a1a3b424e340d472f6934bbbfd64c62cea76a62197b111c6aea5

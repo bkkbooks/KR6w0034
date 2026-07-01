@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR6w0034/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0034/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法宗原私記
+  identifiers:
+    krp: KR6w0034
+    cbeta: D34n8893
+    cbeta_old_id: D34n8893
+    authorityid: CA0008033
+    json_key: D8893
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D34/D34n8893.xml
+    old_id: D34n8893
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0034_000-D.yaml, hash: 'sha256:30c351762b48a1a3b424e340d472f6934bbbfd64c62cea76a62197b111c6aea5'}
+  - {seq: 2, filename: KR6w0034_002-D.yaml, hash: 'sha256:a86797ce4254693522b9f3c979f40b0be09367a0e2a904b51b76ba7b1252cee0'}
+  - {seq: 3, filename: KR6w0034_003-D.yaml, hash: 'sha256:5d0079287dc30491de6e37bfcf316f39adba7c6ed1b8608c73176cbeddd04d8e'}
+  - {seq: 4, filename: KR6w0034_004-D.yaml, hash: 'sha256:eed81116c8ddf169f6d882c034eaec800404aad8dd317857dd039bf59523710d'}
+  - {seq: 5, filename: KR6w0034_005-D.yaml, hash: 'sha256:a38762015583ce5c7893b395168dadcb3c5abfa4104881f455edf62dfd650a31'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0034_000-D.markers.yaml, hash: 'sha256:05bd52e0a7bca820c4282ad07a081e3b556c3993bc8082b26162a7b271054ecb'}
+  - {seq: 2, role: markers, filename: assets/KR6w0034_002-D.markers.yaml, hash: 'sha256:a0bff287913270c37399e61d6349fe0aa382393af4b83b603de13cabc1c0a5b7'}
+  - {seq: 3, role: markers, filename: assets/KR6w0034_003-D.markers.yaml, hash: 'sha256:423561b17271db36a59322565b73a01229936fd543ab501d472e9b740846b0ba'}
+  - {seq: 4, role: markers, filename: assets/KR6w0034_004-D.markers.yaml, hash: 'sha256:185b8e0a4bf3e6cd3b2f7f0601eaf4a014b405aa6064d3353459ce9711ab2c43'}
+  - {seq: 5, role: markers, filename: assets/KR6w0034_005-D.markers.yaml, hash: 'sha256:bfea5f06dce57384fc3930f28d3d91d946c8cb970efa0a143e2ba5240a63fcdf'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6w0034_D_1a-juan-start
+    span:
+    - body
+    - 0
+    - 18325
+  label: 法宗原私記本上
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0034_D_1b-juan-start
+    span:
+    - body
+    - 0
+    - 13278
+  label: 法宗原私記本下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0034_D_1b-mulu-1
+    span:
+    - body
+    - 13278
+    - 13278
+  label: 卷二上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0034_D_2a-juan-start
+    span:
+    - body
+    - 0
+    - 10470
+  label: 法宗原私記末上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0034_D_2b-juan-start
+    span:
+    - body
+    - 0
+    - 8799
+  label: 法宗原私記末下
+  type: juan
+  level: 1
+hash: sha256:900a8a4c80f0e9f3077f75d1ad11319ca5aa9af99a7b3634bd31f0149af1a8f4
